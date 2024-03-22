@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-02-17 20:46:00" Modified_Date="2024-02-22 12:57:35" Creator="tupp_js-a" Comments="" ID="5f713855f670187825415f1cc8c64c38">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-02-17 20:46:00" Modified_Date="2024-03-22 14:48:05" Creator="tupp_js-a" Comments="" ID="d68957bdbc3db982945fa259c91ca4a4">
   <Library_General_Settings>
     <Package_File_Name>DLR_lib_Graphs</Package_File_Name>
-    <Library_Version>1.0.0.7</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -265,7 +265,7 @@
         <Path>..\Series Graph</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E2277868A8EBACE7CB503CDA3780ADA0</GUID>
+      <GUID>A4D6DE33B3E390D1C02648CBBF2D2183</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -384,7 +384,7 @@
         <Path>..\Analysis Graph\Update Z Cursors.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6F35FFC76D7B689C3F01EA4867BE525C</GUID>
+      <GUID>DA66B3DB4BC121480CA5DB8D47E97605</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -489,7 +489,7 @@
         <Path>..\Base Graph\Set X-Y ROI.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BCB1FAE871E79E951D153E863E413D96</GUID>
+      <GUID>34F6A86DE756BC8A8BAD59935D055620</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -566,7 +566,7 @@
         <Path>..\Detail Graph\Update ROI.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>537B5AFE068D63C247D84D2B379510C4</GUID>
+      <GUID>EA9272BE31BCBCC34E4CDC75DD60DD73</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -643,7 +643,7 @@
         <Path>..\Series Graph\Update Series Graphs.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7D592D4054AB5BB2878C16DF8284999C</GUID>
+      <GUID>91D078F884C57033C723212B9AE4EAEB</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
